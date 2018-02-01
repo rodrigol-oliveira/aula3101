@@ -34,7 +34,7 @@ var listaNotas = {
     }
 };
 
-
+ 
 function atualizarSecao(secao) {
     var conteudoSecao = "";
 

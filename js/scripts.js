@@ -5,7 +5,7 @@ var listaNotas = {
     listaInterna: [],
     
         
-    adiciona: function (novoTitulo, novoTexto){
+    adiciona: (novoTitulo, novoTexto)=>{
         var nota = {
         titulo: novoTitulo,
         texto: novoTexto,
